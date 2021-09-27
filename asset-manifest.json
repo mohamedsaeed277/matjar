@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/matjar/static/js/main.d48db908.chunk.js",
-    "main.js.map": "/matjar/static/js/main.d48db908.chunk.js.map",
+    "main.js": "/matjar/static/js/main.833c5c49.chunk.js",
+    "main.js.map": "/matjar/static/js/main.833c5c49.chunk.js.map",
     "runtime-main.js": "/matjar/static/js/runtime-main.dc20413f.js",
     "runtime-main.js.map": "/matjar/static/js/runtime-main.dc20413f.js.map",
-    "static/js/2.a6584288.chunk.js": "/matjar/static/js/2.a6584288.chunk.js",
-    "static/js/2.a6584288.chunk.js.map": "/matjar/static/js/2.a6584288.chunk.js.map",
+    "static/js/2.ad76f95e.chunk.js": "/matjar/static/js/2.ad76f95e.chunk.js",
+    "static/js/2.ad76f95e.chunk.js.map": "/matjar/static/js/2.ad76f95e.chunk.js.map",
     "index.html": "/matjar/index.html",
-    "static/js/2.a6584288.chunk.js.LICENSE.txt": "/matjar/static/js/2.a6584288.chunk.js.LICENSE.txt"
+    "static/js/2.ad76f95e.chunk.js.LICENSE.txt": "/matjar/static/js/2.ad76f95e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dc20413f.js",
-    "static/js/2.a6584288.chunk.js",
-    "static/js/main.d48db908.chunk.js"
+    "static/js/2.ad76f95e.chunk.js",
+    "static/js/main.833c5c49.chunk.js"
   ]
 }
